@@ -1,3 +1,4 @@
+package b07lab1;
 public class Polynomial {
     private double[] coefficients;
 
